@@ -22,6 +22,17 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
+### 🎯 Current Learning & Goals  
+
+**🚀 DevOps**  
+- Mastering **Kubernetes** for container orchestration  
+- Exploring **Azure Cloud** and **AWS Cloud** services  
+- Building scalable CI/CD pipelines with modern DevOps tools  
+
+**🧪 QA Automation**  
+- Deepening knowledge in **Cucumber** for BDD frameworks  
+- Practicing **Rest Assured** for API testing  
+- Improving integration of automation tests in CI/CD pipelines  
 
 
 ### 📫 Connect with Me  
