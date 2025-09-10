@@ -21,3 +21,11 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+
+
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-salem-8380111b8)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ahmed.salem.mohamed.2002@gmail.com)  
+[![Phone](https://img.shields.io/badge/Phone-+20%20123%20456%207890-green?style=for-the-badge&logo=phone&logoColor=white)](tel:+201126563882)
+
